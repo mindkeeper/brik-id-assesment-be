@@ -16,6 +16,7 @@
 - [Introduction](#introduction)
 - [How to Run the App](#how-to-run-the-application)
 - [Deployment](#deployment)
+- [Documentation](#documentation)
 
 ## Introduction
 
@@ -97,3 +98,7 @@ $ npm run dev
 ## Deployment
 
 [Vercel deploy link](https://brik-id-assesment-be.vercel.app/)
+
+## Documentation
+
+you can see this project full features and documentation at this [link](https://tinyurl.com/klontong-be)
