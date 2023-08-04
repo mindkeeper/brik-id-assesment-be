@@ -16,7 +16,6 @@
 - [Introduction](#introduction)
 - [How to Run the App](#how-to-run-the-application)
 - [Deployment](#deployment)
-- [Related Project](#related-project)
 
 ## Introduction
 
